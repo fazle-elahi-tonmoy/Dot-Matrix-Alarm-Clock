@@ -10,7 +10,6 @@ A multifunctional Arduino-based digital alarm clock featuring:
 * 💡 LED matrix animations
 * 🎛 Interactive menu system
 * 🔊 Buzzer alarm notifications
-* 🌡 Temperature & humidity monitoring
 * ⚙ Servo-based alarm indicators
 
 This project combines real-time clock functionality with visual sound effects and interactive controls using Arduino and LED matrix displays.
